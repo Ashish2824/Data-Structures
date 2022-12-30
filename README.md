@@ -7,3 +7,6 @@ CONTENT -
 
 1) Pointers
 2) Dynamic Allocation
+3) Arrays
+4) Recursion1
+5) Recursion2
